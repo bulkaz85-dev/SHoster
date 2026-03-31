@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-SIMPLE FILE HUB v1.0
-A no-authentication file hosting server for local network sharing
-Store and access files, text, photos, videos from any device
-"""
-
 import os
 import sys
 import json
